@@ -1,2 +1,2 @@
 # ember
-Ember Turorial
+Ember Tutorial
